@@ -116,7 +116,7 @@ colspan="" x개의 열 병합 오른쪽
 
 &#60;/table&#62;
 
-&#60;form action="http://localhost/login.php"&#62; 서버로 정보보내기
+&#60;form action="http://localhost/login.php" &#62; 서버로 정보보내기
   method="get" 공개전송 "post" 비공개전송
   autocomplete="on" 자동완성
 
@@ -158,8 +158,8 @@ for 대신 레이블로 감싸도 가능
 
 
 
-&#60;!--  주석
---&#62;
+&#60;!-&#45;  주석
+-&#45;&#62;
 
 pixabay 사진
 disqus livere 댓글
