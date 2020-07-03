@@ -3,10 +3,10 @@ layout: post
 title: "HTML"
 author: "stbpiza"
 ---
-<pre>
-<!DOCTYPE html> : 현재 문서가 HTML5 문서임을 명시합니다.
 
-<html> : HTML 문서의 루트(root) 요소를 정의합니다.
+&#60;!DOCTYPE html> : 현재 문서가 HTML5 문서임을 명시합니다.
+
+&#60;html> : HTML 문서의 루트(root) 요소를 정의합니다.
 
 <head> : HTML 문서의 메타데이터(metadata)를 정의합니다.
 
