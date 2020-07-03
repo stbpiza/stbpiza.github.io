@@ -3,7 +3,7 @@ layout: post
 title: "HTML"
 author: "stbpiza"
 ---
-
+<!--
 <!DOCTYPE html> : 현재 문서가 HTML5 문서임을 명시합니다.
 
 <html> : HTML 문서의 루트(root) 요소를 정의합니다.
@@ -167,3 +167,4 @@ disqus livere 댓글
 tawk.to 채팅
 analytics.google.com 방문분석
 
+-->
