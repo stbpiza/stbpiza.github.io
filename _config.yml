@@ -1,6 +1,6 @@
-# SITE CONFIGURATION
-baseurl: "https://stbpiza.github.io/"
-url: "https://sylhare.github.io"
+﻿# SITE CONFIGURATION
+baseurl: ""
+url: "https://stbpiza.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Type on Strap                                    # site's title
