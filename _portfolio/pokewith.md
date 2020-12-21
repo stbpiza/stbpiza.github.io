@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Pokewith
-feature-img: "assets/img/portfolio/favicon.png"
-img: "assets/img/portfolio/favicon.png"
+feature-img: "assets/img/portfolio/pokewith.png"
+img: "assets/img/portfolio/pokewith.png"
 date: 31 August 2020
 tags: [Portfolio, 팀프로젝트, Spring, Thymeleaf, MySQL, Vanilla JS]
 ---
